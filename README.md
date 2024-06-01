@@ -1,4 +1,4 @@
-# PWA Foodbank Application
+# Progressive Web Application (PWA) Food Bank Application
 
 ## Overview
 The PWA Foodbank Application is a Progressive Web App built with Vite. It streamlines the process of managing and distributing food items through a food bank. The application provides a user-friendly interface for users to request food, check availability, and receive updates on their requests. It also includes an admin interface for managing inventory and handling requests.
