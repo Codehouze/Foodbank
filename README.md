@@ -37,13 +37,11 @@ You can access a live demo of the application [here](https://example.com/demo).
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/yourusername/pwa-foodbank.git
-cd pwa-foodbank
+cd foodbank
 ```
 
 ### 2. Install Dependencies
 ```bash
-npm install
-# or
 yarn install
 ```
 
@@ -77,16 +75,12 @@ Ensure the service worker and manifest files are correctly configured to enable 
 
 ### Starting the Application
 ```bash
-npm run dev
-# or
 yarn dev
 ```
 The application will be available at `http://localhost:3000`.
 
 ### Building for Production
 ```bash
-npm run build
-# or
 yarn build
 ```
 The production files will be in the `dist` folder. You can serve them using any static file server or deploy them to your preferred hosting service.
